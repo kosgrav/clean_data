@@ -12,7 +12,7 @@ The full set of variables is reduced to a subset of means and standard deviation
 This tidy data set contains data that is grouped by subject and activity, and summarized by the mean of each variable.
 
 
-### Data Processing Description and Variable Names: CodeBook.md
+### Data Processing Description and Variable Names: Create Cleaning.md
 
 This R-markdown file contains the data processing steps and variable that were used in the run_analysis.R script.
 This file contains the data processing steps and variable that were used in the run_analysis.R script.
