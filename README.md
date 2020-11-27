@@ -2,7 +2,6 @@
 ### Project Files
 
 ### Data Processing Script: run_analysis.R
-### Data Processing Script: run_analysis.R
 
 This R script reads the data files, combines them into one data file, and assigns meaningful names to variables. 
 The full set of variables is reduced to a subset of means and standard deviations.
